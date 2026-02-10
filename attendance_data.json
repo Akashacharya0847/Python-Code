@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "student_id": 1,
+      "name": "Rahul Sharma",
+      "roll_no": "CS001",
+      "course": "Computer Science",
+      "email": "",
+      "total_absent_days": 0,
+      "attendance_records": {}
+    },
+    {
+      "student_id": 2,
+      "name": "Priya Patel",
+      "roll_no": "CS002",
+      "course": "Computer Science",
+      "email": "",
+      "total_absent_days": 0,
+      "attendance_records": {}
+    },
+    {
+      "student_id": 3,
+      "name": "Amit Kumar",
+      "roll_no": "ME001",
+      "course": "Mechanical Eng",
+      "email": "",
+      "total_absent_days": 0,
+      "attendance_records": {}
+    }
+  ],
+  "faculty": [],
+  "courses": [],
+  "attendance": [],
+  "next_ids": {
+    "student": 4,
+    "faculty": 1,
+    "course": 1,
+    "att": 1
+  }
+}
